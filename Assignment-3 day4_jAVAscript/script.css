@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(59, 80, 19);
+}
+button{
+    height: 38px;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid black; 
+    color: white;
+    width: 200px;
+    text-align: left;
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-size: x-large;
+}
+button:hover {
+    background-color: rgb(150, 92, 16);
+    color: black;
+} 
+.text{
+    width: 200px;
+    height: 29px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+p{
+    text-align: center;
+}
